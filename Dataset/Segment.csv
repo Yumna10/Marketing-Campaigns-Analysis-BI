@@ -1,0 +1,201 @@
+Segment_ID,Location,Behavior,Interest
+SEG001,Egypt,Deal Seeker,Home Appliances
+SEG002,Egypt,Deal Seeker,Gaming
+SEG003,Egypt,Deal Seeker,Fitness
+SEG004,Egypt,Deal Seeker,Fashion
+SEG005,Egypt,Deal Seeker,Electronics
+SEG006,Egypt,Frequent Buyer,Home Appliances
+SEG007,Egypt,Frequent Buyer,Gaming
+SEG008,Egypt,Frequent Buyer,Fitness
+SEG009,Egypt,Frequent Buyer,Fashion
+SEG010,Egypt,Frequent Buyer,Electronics
+SEG011,Egypt,Tech Enthusiast,Home Appliances
+SEG012,Egypt,Tech Enthusiast,Gaming
+SEG013,Egypt,Tech Enthusiast,Fitness
+SEG014,Egypt,Tech Enthusiast,Fashion
+SEG015,Egypt,Tech Enthusiast,Electronics
+SEG016,Egypt,Online Shopper,Home Appliances
+SEG017,Egypt,Online Shopper,Gaming
+SEG018,Egypt,Online Shopper,Fitness
+SEG019,Egypt,Online Shopper,Fashion
+SEG020,Egypt,Online Shopper,Electronics
+SEG021,Egypt,In Shipping,Home Appliances
+SEG022,Egypt,In Shipping,Gaming
+SEG023,Egypt,In Shipping,Fitness
+SEG024,Egypt,In Shipping,Fashion
+SEG025,Egypt,In Shipping,Electronics
+SEG026,France,Deal Seeker,Home Appliances
+SEG027,France,Deal Seeker,Gaming
+SEG028,France,Deal Seeker,Fitness
+SEG029,France,Deal Seeker,Fashion
+SEG030,France,Deal Seeker,Electronics
+SEG031,France,Frequent Buyer,Home Appliances
+SEG032,France,Frequent Buyer,Gaming
+SEG033,France,Frequent Buyer,Fitness
+SEG034,France,Frequent Buyer,Fashion
+SEG035,France,Frequent Buyer,Electronics
+SEG036,France,Tech Enthusiast,Home Appliances
+SEG037,France,Tech Enthusiast,Gaming
+SEG038,France,Tech Enthusiast,Fitness
+SEG039,France,Tech Enthusiast,Fashion
+SEG040,France,Tech Enthusiast,Electronics
+SEG041,France,Online Shopper,Home Appliances
+SEG042,France,Online Shopper,Gaming
+SEG043,France,Online Shopper,Fitness
+SEG044,France,Online Shopper,Fashion
+SEG045,France,Online Shopper,Electronics
+SEG046,France,In Shipping,Home Appliances
+SEG047,France,In Shipping,Gaming
+SEG048,France,In Shipping,Fitness
+SEG049,France,In Shipping,Fashion
+SEG050,France,In Shipping,Electronics
+SEG051,USA,Deal Seeker,Home Appliances
+SEG052,USA,Deal Seeker,Gaming
+SEG053,USA,Deal Seeker,Fitness
+SEG054,USA,Deal Seeker,Fashion
+SEG055,USA,Deal Seeker,Electronics
+SEG056,USA,Frequent Buyer,Home Appliances
+SEG057,USA,Frequent Buyer,Gaming
+SEG058,USA,Frequent Buyer,Fitness
+SEG059,USA,Frequent Buyer,Fashion
+SEG060,USA,Frequent Buyer,Electronics
+SEG061,USA,Tech Enthusiast,Home Appliances
+SEG062,USA,Tech Enthusiast,Gaming
+SEG063,USA,Tech Enthusiast,Fitness
+SEG064,USA,Tech Enthusiast,Fashion
+SEG065,USA,Tech Enthusiast,Electronics
+SEG066,USA,Online Shopper,Home Appliances
+SEG067,USA,Online Shopper,Gaming
+SEG068,USA,Online Shopper,Fitness
+SEG069,USA,Online Shopper,Fashion
+SEG070,USA,Online Shopper,Electronics
+SEG071,USA,In Shipping,Home Appliances
+SEG072,USA,In Shipping,Gaming
+SEG073,USA,In Shipping,Fitness
+SEG074,USA,In Shipping,Fashion
+SEG075,USA,In Shipping,Electronics
+SEG076,UAE,Deal Seeker,Home Appliances
+SEG077,UAE,Deal Seeker,Gaming
+SEG078,UAE,Deal Seeker,Fitness
+SEG079,UAE,Deal Seeker,Fashion
+SEG080,UAE,Deal Seeker,Electronics
+SEG081,UAE,Frequent Buyer,Home Appliances
+SEG082,UAE,Frequent Buyer,Gaming
+SEG083,UAE,Frequent Buyer,Fitness
+SEG084,UAE,Frequent Buyer,Fashion
+SEG085,UAE,Frequent Buyer,Electronics
+SEG086,UAE,Tech Enthusiast,Home Appliances
+SEG087,UAE,Tech Enthusiast,Gaming
+SEG088,UAE,Tech Enthusiast,Fitness
+SEG089,UAE,Tech Enthusiast,Fashion
+SEG090,UAE,Tech Enthusiast,Electronics
+SEG091,UAE,Online Shopper,Home Appliances
+SEG092,UAE,Online Shopper,Gaming
+SEG093,UAE,Online Shopper,Fitness
+SEG094,UAE,Online Shopper,Fashion
+SEG095,UAE,Online Shopper,Electronics
+SEG096,UAE,In Shipping,Home Appliances
+SEG097,UAE,In Shipping,Gaming
+SEG098,UAE,In Shipping,Fitness
+SEG099,UAE,In Shipping,Fashion
+SEG100,UAE,In Shipping,Electronics
+SEG101,UK,Deal Seeker,Home Appliances
+SEG102,UK,Deal Seeker,Gaming
+SEG103,UK,Deal Seeker,Fitness
+SEG104,UK,Deal Seeker,Fashion
+SEG105,UK,Deal Seeker,Electronics
+SEG106,UK,Frequent Buyer,Home Appliances
+SEG107,UK,Frequent Buyer,Gaming
+SEG108,UK,Frequent Buyer,Fitness
+SEG109,UK,Frequent Buyer,Fashion
+SEG110,UK,Frequent Buyer,Electronics
+SEG111,UK,Tech Enthusiast,Home Appliances
+SEG112,UK,Tech Enthusiast,Gaming
+SEG113,UK,Tech Enthusiast,Fitness
+SEG114,UK,Tech Enthusiast,Fashion
+SEG115,UK,Tech Enthusiast,Electronics
+SEG116,UK,Online Shopper,Home Appliances
+SEG117,UK,Online Shopper,Gaming
+SEG118,UK,Online Shopper,Fitness
+SEG119,UK,Online Shopper,Fashion
+SEG120,UK,Online Shopper,Electronics
+SEG121,UK,In Shipping,Home Appliances
+SEG122,UK,In Shipping,Gaming
+SEG123,UK,In Shipping,Fitness
+SEG124,UK,In Shipping,Fashion
+SEG125,UK,In Shipping,Electronics
+SEG126,Saudi Arabia,Deal Seeker,Home Appliances
+SEG127,Saudi Arabia,Deal Seeker,Gaming
+SEG128,Saudi Arabia,Deal Seeker,Fitness
+SEG129,Saudi Arabia,Deal Seeker,Fashion
+SEG130,Saudi Arabia,Deal Seeker,Electronics
+SEG131,Saudi Arabia,Frequent Buyer,Home Appliances
+SEG132,Saudi Arabia,Frequent Buyer,Gaming
+SEG133,Saudi Arabia,Frequent Buyer,Fitness
+SEG134,Saudi Arabia,Frequent Buyer,Fashion
+SEG135,Saudi Arabia,Frequent Buyer,Electronics
+SEG136,Saudi Arabia,Tech Enthusiast,Home Appliances
+SEG137,Saudi Arabia,Tech Enthusiast,Gaming
+SEG138,Saudi Arabia,Tech Enthusiast,Fitness
+SEG139,Saudi Arabia,Tech Enthusiast,Fashion
+SEG140,Saudi Arabia,Tech Enthusiast,Electronics
+SEG141,Saudi Arabia,Online Shopper,Home Appliances
+SEG142,Saudi Arabia,Online Shopper,Gaming
+SEG143,Saudi Arabia,Online Shopper,Fitness
+SEG144,Saudi Arabia,Online Shopper,Fashion
+SEG145,Saudi Arabia,Online Shopper,Electronics
+SEG146,Saudi Arabia,In Shipping,Home Appliances
+SEG147,Saudi Arabia,In Shipping,Gaming
+SEG148,Saudi Arabia,In Shipping,Fitness
+SEG149,Saudi Arabia,In Shipping,Fashion
+SEG150,Saudi Arabia,In Shipping,Electronics
+SEG151,Jordan,Deal Seeker,Home Appliances
+SEG152,Jordan,Deal Seeker,Gaming
+SEG153,Jordan,Deal Seeker,Fitness
+SEG154,Jordan,Deal Seeker,Fashion
+SEG155,Jordan,Deal Seeker,Electronics
+SEG156,Jordan,Frequent Buyer,Home Appliances
+SEG157,Jordan,Frequent Buyer,Gaming
+SEG158,Jordan,Frequent Buyer,Fitness
+SEG159,Jordan,Frequent Buyer,Fashion
+SEG160,Jordan,Frequent Buyer,Electronics
+SEG161,Jordan,Tech Enthusiast,Home Appliances
+SEG162,Jordan,Tech Enthusiast,Gaming
+SEG163,Jordan,Tech Enthusiast,Fitness
+SEG164,Jordan,Tech Enthusiast,Fashion
+SEG165,Jordan,Tech Enthusiast,Electronics
+SEG166,Jordan,Online Shopper,Home Appliances
+SEG167,Jordan,Online Shopper,Gaming
+SEG168,Jordan,Online Shopper,Fitness
+SEG169,Jordan,Online Shopper,Fashion
+SEG170,Jordan,Online Shopper,Electronics
+SEG171,Jordan,In Shipping,Home Appliances
+SEG172,Jordan,In Shipping,Gaming
+SEG173,Jordan,In Shipping,Fitness
+SEG174,Jordan,In Shipping,Fashion
+SEG175,Jordan,In Shipping,Electronics
+SEG176,Morocco,Deal Seeker,Home Appliances
+SEG177,Morocco,Deal Seeker,Gaming
+SEG178,Morocco,Deal Seeker,Fitness
+SEG179,Morocco,Deal Seeker,Fashion
+SEG180,Morocco,Deal Seeker,Electronics
+SEG181,Morocco,Frequent Buyer,Home Appliances
+SEG182,Morocco,Frequent Buyer,Gaming
+SEG183,Morocco,Frequent Buyer,Fitness
+SEG184,Morocco,Frequent Buyer,Fashion
+SEG185,Morocco,Frequent Buyer,Electronics
+SEG186,Morocco,Tech Enthusiast,Home Appliances
+SEG187,Morocco,Tech Enthusiast,Gaming
+SEG188,Morocco,Tech Enthusiast,Fitness
+SEG189,Morocco,Tech Enthusiast,Fashion
+SEG190,Morocco,Tech Enthusiast,Electronics
+SEG191,Morocco,Online Shopper,Home Appliances
+SEG192,Morocco,Online Shopper,Gaming
+SEG193,Morocco,Online Shopper,Fitness
+SEG194,Morocco,Online Shopper,Fashion
+SEG195,Morocco,Online Shopper,Electronics
+SEG196,Morocco,In Shipping,Home Appliances
+SEG197,Morocco,In Shipping,Gaming
+SEG198,Morocco,In Shipping,Fitness
+SEG199,Morocco,In Shipping,Fashion
+SEG200,Morocco,In Shipping,Electronics
