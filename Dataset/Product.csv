@@ -1,0 +1,37 @@
+Product_ID,Product_Name,Country,Company_ID,Color,Category,Price,Stock,Availability,Landing_Page
+PRD001,iPhone 15,USA,CMP001,Black,Smartphone,$999.00 ,0,pre_order,Electronics - Smartphones
+PRD002,iPhone 13,USA,CMP001,Blue,Smartphone,$799.00 ,0,discontinued,Electronics - Smartphones
+PRD003,iPad Air,USA,CMP001,Silver,Tablet,$599.00 ,146,in_stock,Electronics - Tablets
+PRD004,MacBook Pro,USA,CMP001,Space Gray,Laptop,"$1,999.00 ",0,backorder,Electronics - Laptops
+PRD005,Apple Watch SE,USA,CMP001,White,Smartwatch,$299.00 ,12,limited_stock,Electronics - Smartwatches
+PRD006,AirPods Pro,USA,CMP001,White,Earbuds,$249.00 ,173,in_stock,Electronics - Audio
+PRD007,Galaxy S24,South Korea,CMP002,Black,Smartphone,$999.00 ,0,pre_order,Electronics - Smartphones
+PRD008,Galaxy Note 20,South Korea,CMP002,Bronze,Smartphone,$899.00 ,0,discontinued,Electronics - Smartphones
+PRD009,Galaxy Tab S9,South Korea,CMP002,Gray,Tablet,$749.00 ,102,in_stock,Electronics - Tablets
+PRD010,Galaxy Watch 6,South Korea,CMP002,Black,Smartwatch,$349.00 ,88,in_stock,Electronics - Smartwatches
+PRD011,Galaxy Buds Pro,South Korea,CMP002,Purple,Earbuds,$199.00 ,17,limited_stock,Electronics - Audio
+PRD012,QLED TV,South Korea,CMP002,Black,Television,"$1,499.00 ",0,out_of_stock,Electronics - Televisions
+PRD013,ThinkPad X1 Carbon,China,CMP003,Black,Laptop,"$1,299.00 ",0,backorder,Electronics - Laptops
+PRD014,Yoga 9i,China,CMP003,Silver,Laptop,"$1,199.00 ",115,in_stock,Electronics - Laptops
+PRD015,Legion 5,China,CMP003,Black,Gaming Laptop,"$1,399.00 ",9,limited_stock,Electronics - Gaming Laptops
+PRD016,Tab P11,China,CMP003,Gray,Tablet,$329.00 ,0,out_of_stock,Electronics - Tablets
+PRD017,Smart Clock,China,CMP003,White,Smart Home,$89.00 ,138,in_stock,Electronics - Smart Home
+PRD018,ThinkPad P Series,China,CMP003,Black,Workstation Laptop,"$1,899.00 ",76,in_stock,Electronics - Laptops
+PRD019,WH-1000XM5,Japan,CMP004,Black,Headphones,$399.00 ,14,limited_stock,Electronics - Audio
+PRD020,Xperia 1 IV,Japan,CMP004,Purple,Smartphone,$999.00 ,0,out_of_stock,Electronics - Smartphones
+PRD021,PlayStation 5,Japan,CMP004,White,Gaming Console,$499.00 ,6,limited_stock,Electronics - Gaming Consoles
+PRD022,A7 III Camera,Japan,CMP004,Black,Camera,"$1,799.00 ",0,backorder,Electronics - Cameras
+PRD023,Bravia TV,Japan,CMP004,Black,Television,"$1,399.00 ",0,backorder,Electronics - Televisions
+PRD024,LinkBuds,Japan,CMP004,White,Earbuds,$179.00 ,152,in_stock,Electronics - Audio
+PRD025,Mate 50 Pro,China,CMP005,Black,Smartphone,$899.00 ,133,in_stock,Electronics - Smartphones
+PRD026,P50 Pro,China,CMP005,Silver,Smartphone,$849.00 ,0,discontinued,Electronics - Smartphones
+PRD027,Watch GT 4,China,CMP005,Black,Smartwatch,$299.00 ,164,in_stock,Electronics - Smartwatches
+PRD028,MatePad Pro,China,CMP005,Gray,Tablet,$599.00 ,0,out_of_stock,Electronics - Tablets
+PRD029,FreeBuds 4i,China,CMP005,White,Earbuds,$149.00 ,10,limited_stock,Electronics - Audio
+PRD030,Nova 9,China,CMP005,Blue,Smartphone,$699.00 ,11,limited_stock,Electronics - Smartphones
+PRD031,XPS 13,USA,CMP006,Silver,Laptop,"$1,199.00 ",121,in_stock,Electronics - Laptops
+PRD032,Inspiron 14,USA,CMP006,Black,Laptop,$799.00 ,0,backorder,Electronics - Laptops
+PRD033,Alienware M15,USA,CMP006,White,Gaming Laptop,"$1,499.00 ",18,limited_stock,Electronics - Gaming Laptops
+PRD034,UltraSharp U2720Q,USA,CMP006,Black,Monitor,$649.00 ,0,out_of_stock,Electronics - Monitors
+PRD035,Latitude 7420,USA,CMP006,Gray,Business Laptop,"$1,299.00 ",147,in_stock,Electronics - Laptops
+PRD036,Dell G5 15,USA,CMP006,Black,Gaming Laptop,"$1,099.00 ",0,backorder,Electronics - Gaming Laptops
