@@ -1,7 +1,0 @@
-company_id,company_name,country,website_id,Website_Name,URL,Industry_Focus,Founded Year
-CMP001,Apple,USA,WEB001,Apple Official,https://www.apple.com,Consumer Electronics,1976
-CMP002,Samsung,South Korea,WEB002,Samsung Global,https://www.samsung.com,Electronics & Home Appliances,1938
-CMP003,Lenovo,China,WEB003,Lenovo Official,https://www.lenovo.com,Computer Hardware,1984
-CMP004,Sony,Japan,WEB004,Sony Corporation,https://www.sony.com,Entertainment & Electronics,1946
-CMP005,Huawei,China,WEB005,Huawei Global,https://www.huawei.com,Telecommunications,1987
-CMP006,Dell,USA,WEB006,Dell Official,https://www.dell.com,Computer Technology,1984
