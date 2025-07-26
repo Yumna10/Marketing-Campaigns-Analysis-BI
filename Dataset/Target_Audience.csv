@@ -1,0 +1,201 @@
+Target_Audience_ID,Campaign_ID,Location,Behavior,Interest,Min Age,Max Age
+SEG001,53,Egypt,Deal Seeker,Home Appliances,18,45
+SEG002,12,Egypt,Deal Seeker,Gaming,18,45
+SEG003,4,Egypt,Deal Seeker,Fitness,18,50
+SEG004,35,Egypt,Deal Seeker,Fashion,18,50
+SEG005,49,Egypt,Deal Seeker,Electronics,18,40
+SEG006,9,Egypt,Frequent Buyer,Home Appliances,15,35
+SEG007,59,Egypt,Frequent Buyer,Gaming,18,45
+SEG008,26,Egypt,Frequent Buyer,Fitness,18,45
+SEG009,33,Egypt,Frequent Buyer,Fashion,18,50
+SEG010,13,Egypt,Frequent Buyer,Electronics,18,40
+SEG011,15,Egypt,Tech Enthusiast,Home Appliances,15,35
+SEG012,23,Egypt,Tech Enthusiast,Gaming,25,60
+SEG013,44,Egypt,Tech Enthusiast,Fitness,18,50
+SEG014,29,Egypt,Tech Enthusiast,Fashion,18,50
+SEG015,50,Egypt,Tech Enthusiast,Electronics,15,35
+SEG016,6,Egypt,Online Shopper,Home Appliances,18,50
+SEG017,41,Egypt,Online Shopper,Gaming,25,55
+SEG018,22,Egypt,Online Shopper,Fitness,25,55
+SEG019,16,Egypt,Online Shopper,Fashion,15,40
+SEG020,25,Egypt,Online Shopper,Electronics,18,45
+SEG021,3,Egypt,In Shipping,Home Appliances,13,30
+SEG022,38,Egypt,In Shipping,Gaming,20,45
+SEG023,45,Egypt,In Shipping,Fitness,25,60
+SEG024,30,Egypt,In Shipping,Fashion,15,35
+SEG025,18,Egypt,In Shipping,Electronics,18,45
+SEG026,40,France,Deal Seeker,Home Appliances,18,45
+SEG027,7,France,Deal Seeker,Gaming,18,40
+SEG028,8,France,Deal Seeker,Fitness,18,50
+SEG029,19,France,Deal Seeker,Fashion,15,35
+SEG030,36,France,Deal Seeker,Electronics,18,45
+SEG031,42,France,Frequent Buyer,Home Appliances,18,50
+SEG032,20,France,Frequent Buyer,Gaming,18,50
+SEG033,37,France,Frequent Buyer,Fitness,15,35
+SEG034,55,France,Frequent Buyer,Fashion,20,50
+SEG035,10,France,Frequent Buyer,Electronics,25,55
+SEG036,21,France,Tech Enthusiast,Home Appliances,15,35
+SEG037,27,France,Tech Enthusiast,Gaming,18,45
+SEG038,48,France,Tech Enthusiast,Fitness,18,45
+SEG039,28,France,Tech Enthusiast,Fashion,18,50
+SEG040,14,France,Tech Enthusiast,Electronics,18,50
+SEG041,2,France,Online Shopper,Home Appliances,18,40
+SEG042,5,France,Online Shopper,Gaming,15,35
+SEG043,47,France,Online Shopper,Fitness,18,45
+SEG044,11,France,Online Shopper,Fashion,18,45
+SEG045,46,France,Online Shopper,Electronics,18,50
+SEG046,31,France,In Shipping,Home Appliances,18,40
+SEG047,17,France,In Shipping,Gaming,15,35
+SEG048,24,France,In Shipping,Fitness,25,60
+SEG049,52,France,In Shipping,Fashion,18,50
+SEG050,32,France,In Shipping,Electronics,18,50
+SEG051,1,USA,Deal Seeker,Home Appliances,15,35
+SEG052,43,USA,Deal Seeker,Gaming,18,50
+SEG053,51,USA,Deal Seeker,Fitness,25,55
+SEG054,34,USA,Deal Seeker,Fashion,25,55
+SEG055,54,USA,Deal Seeker,Electronics,15,40
+SEG056,39,USA,Frequent Buyer,Home Appliances,18,45
+SEG057,56,USA,Frequent Buyer,Gaming,13,30
+SEG058,12,USA,Frequent Buyer,Fitness,20,45
+SEG059,4,USA,Frequent Buyer,Fashion,25,60
+SEG060,35,USA,Frequent Buyer,Electronics,15,35
+SEG061,49,USA,Tech Enthusiast,Home Appliances,15,35
+SEG062,9,USA,Tech Enthusiast,Gaming,18,50
+SEG063,59,USA,Tech Enthusiast,Fitness,25,55
+SEG064,26,USA,Tech Enthusiast,Fashion,25,55
+SEG065,33,USA,Tech Enthusiast,Electronics,15,40
+SEG066,13,USA,Online Shopper,Home Appliances,15,35
+SEG067,15,USA,Online Shopper,Gaming,18,50
+SEG068,23,USA,Online Shopper,Fitness,25,55
+SEG069,44,USA,Online Shopper,Fashion,25,55
+SEG070,29,USA,Online Shopper,Electronics,15,40
+SEG071,50,USA,In Shipping,Home Appliances,15,35
+SEG072,6,USA,In Shipping,Gaming,18,50
+SEG073,41,USA,In Shipping,Fitness,25,55
+SEG074,22,USA,In Shipping,Fashion,25,55
+SEG075,16,USA,In Shipping,Electronics,15,40
+SEG076,25,UAE,Deal Seeker,Home Appliances,15,35
+SEG077,3,UAE,Deal Seeker,Gaming,18,50
+SEG078,38,UAE,Deal Seeker,Fitness,25,55
+SEG079,45,UAE,Deal Seeker,Fashion,25,55
+SEG080,30,UAE,Deal Seeker,Electronics,15,40
+SEG081,18,UAE,Frequent Buyer,Home Appliances,15,35
+SEG082,40,UAE,Frequent Buyer,Gaming,18,50
+SEG083,7,UAE,Frequent Buyer,Fitness,25,55
+SEG084,8,UAE,Frequent Buyer,Fashion,25,55
+SEG085,19,UAE,Frequent Buyer,Electronics,15,40
+SEG086,36,UAE,Tech Enthusiast,Home Appliances,15,35
+SEG087,42,UAE,Tech Enthusiast,Gaming,18,50
+SEG088,20,UAE,Tech Enthusiast,Fitness,25,55
+SEG089,37,UAE,Tech Enthusiast,Fashion,25,55
+SEG090,55,UAE,Tech Enthusiast,Electronics,15,40
+SEG091,10,UAE,Online Shopper,Home Appliances,15,35
+SEG092,21,UAE,Online Shopper,Gaming,18,50
+SEG093,27,UAE,Online Shopper,Fitness,25,55
+SEG094,48,UAE,Online Shopper,Fashion,25,55
+SEG095,28,UAE,Online Shopper,Electronics,15,40
+SEG096,14,UAE,In Shipping,Home Appliances,15,35
+SEG097,2,UAE,In Shipping,Gaming,18,50
+SEG098,5,UAE,In Shipping,Fitness,25,55
+SEG099,47,UAE,In Shipping,Fashion,25,55
+SEG100,11,UAE,In Shipping,Electronics,15,40
+SEG101,46,UK,Deal Seeker,Home Appliances,15,35
+SEG102,31,UK,Deal Seeker,Gaming,18,50
+SEG103,17,UK,Deal Seeker,Fitness,25,55
+SEG104,24,UK,Deal Seeker,Fashion,25,55
+SEG105,52,UK,Deal Seeker,Electronics,15,40
+SEG106,32,UK,Frequent Buyer,Home Appliances,15,35
+SEG107,1,UK,Frequent Buyer,Gaming,18,50
+SEG108,43,UK,Frequent Buyer,Fitness,25,55
+SEG109,51,UK,Frequent Buyer,Fashion,25,55
+SEG110,34,UK,Frequent Buyer,Electronics,15,40
+SEG111,54,UK,Tech Enthusiast,Home Appliances,15,35
+SEG112,39,UK,Tech Enthusiast,Gaming,18,50
+SEG113,56,UK,Tech Enthusiast,Fitness,25,55
+SEG114,12,UK,Tech Enthusiast,Fashion,25,55
+SEG115,4,UK,Tech Enthusiast,Electronics,15,40
+SEG116,35,UK,Online Shopper,Home Appliances,15,35
+SEG117,49,UK,Online Shopper,Gaming,18,50
+SEG118,9,UK,Online Shopper,Fitness,25,55
+SEG119,59,UK,Online Shopper,Fashion,25,55
+SEG120,26,UK,Online Shopper,Electronics,15,40
+SEG121,33,UK,In Shipping,Home Appliances,15,35
+SEG122,13,UK,In Shipping,Gaming,18,50
+SEG123,15,UK,In Shipping,Fitness,25,55
+SEG124,23,UK,In Shipping,Fashion,25,55
+SEG125,44,UK,In Shipping,Electronics,15,40
+SEG126,29,Saudi Arabia,Deal Seeker,Home Appliances,15,35
+SEG127,50,Saudi Arabia,Deal Seeker,Gaming,18,50
+SEG128,6,Saudi Arabia,Deal Seeker,Fitness,25,55
+SEG129,41,Saudi Arabia,Deal Seeker,Fashion,25,55
+SEG130,22,Saudi Arabia,Deal Seeker,Electronics,15,40
+SEG131,16,Saudi Arabia,Frequent Buyer,Home Appliances,15,35
+SEG132,25,Saudi Arabia,Frequent Buyer,Gaming,18,50
+SEG133,3,Saudi Arabia,Frequent Buyer,Fitness,25,55
+SEG134,38,Saudi Arabia,Frequent Buyer,Fashion,25,55
+SEG135,45,Saudi Arabia,Frequent Buyer,Electronics,15,40
+SEG136,30,Saudi Arabia,Tech Enthusiast,Home Appliances,15,35
+SEG137,18,Saudi Arabia,Tech Enthusiast,Gaming,18,50
+SEG138,40,Saudi Arabia,Tech Enthusiast,Fitness,25,55
+SEG139,7,Saudi Arabia,Tech Enthusiast,Fashion,25,55
+SEG140,8,Saudi Arabia,Tech Enthusiast,Electronics,15,40
+SEG141,19,Saudi Arabia,Online Shopper,Home Appliances,15,35
+SEG142,36,Saudi Arabia,Online Shopper,Gaming,18,50
+SEG143,42,Saudi Arabia,Online Shopper,Fitness,25,55
+SEG144,20,Saudi Arabia,Online Shopper,Fashion,25,55
+SEG145,37,Saudi Arabia,Online Shopper,Electronics,15,40
+SEG146,55,Saudi Arabia,In Shipping,Home Appliances,15,35
+SEG147,10,Saudi Arabia,In Shipping,Gaming,18,50
+SEG148,21,Saudi Arabia,In Shipping,Fitness,25,55
+SEG149,27,Saudi Arabia,In Shipping,Fashion,25,55
+SEG150,48,Saudi Arabia,In Shipping,Electronics,15,40
+SEG151,28,Jordan,Deal Seeker,Home Appliances,15,35
+SEG152,14,Jordan,Deal Seeker,Gaming,18,50
+SEG153,2,Jordan,Deal Seeker,Fitness,25,55
+SEG154,5,Jordan,Deal Seeker,Fashion,25,55
+SEG155,47,Jordan,Deal Seeker,Electronics,15,40
+SEG156,11,Jordan,Frequent Buyer,Home Appliances,15,35
+SEG157,46,Jordan,Frequent Buyer,Gaming,18,50
+SEG158,31,Jordan,Frequent Buyer,Fitness,25,55
+SEG159,17,Jordan,Frequent Buyer,Fashion,25,55
+SEG160,24,Jordan,Frequent Buyer,Electronics,15,40
+SEG161,52,Jordan,Tech Enthusiast,Home Appliances,15,35
+SEG162,32,Jordan,Tech Enthusiast,Gaming,18,50
+SEG163,1,Jordan,Tech Enthusiast,Fitness,25,55
+SEG164,43,Jordan,Tech Enthusiast,Fashion,25,55
+SEG165,51,Jordan,Tech Enthusiast,Electronics,15,40
+SEG166,34,Jordan,Online Shopper,Home Appliances,15,35
+SEG167,54,Jordan,Online Shopper,Gaming,18,50
+SEG168,39,Jordan,Online Shopper,Fitness,25,55
+SEG169,56,Jordan,Online Shopper,Fashion,25,55
+SEG170,12,Jordan,Online Shopper,Electronics,15,40
+SEG171,4,Jordan,In Shipping,Home Appliances,15,35
+SEG172,35,Jordan,In Shipping,Gaming,18,50
+SEG173,49,Jordan,In Shipping,Fitness,25,55
+SEG174,9,Jordan,In Shipping,Fashion,25,55
+SEG175,59,Jordan,In Shipping,Electronics,15,40
+SEG176,26,Morocco,Deal Seeker,Home Appliances,15,35
+SEG177,33,Morocco,Deal Seeker,Gaming,18,50
+SEG178,13,Morocco,Deal Seeker,Fitness,25,55
+SEG179,15,Morocco,Deal Seeker,Fashion,25,55
+SEG180,23,Morocco,Deal Seeker,Electronics,15,40
+SEG181,44,Morocco,Frequent Buyer,Home Appliances,15,35
+SEG182,29,Morocco,Frequent Buyer,Gaming,18,50
+SEG183,50,Morocco,Frequent Buyer,Fitness,25,55
+SEG184,6,Morocco,Frequent Buyer,Fashion,25,55
+SEG185,41,Morocco,Frequent Buyer,Electronics,15,40
+SEG186,22,Morocco,Tech Enthusiast,Home Appliances,15,35
+SEG187,16,Morocco,Tech Enthusiast,Gaming,18,50
+SEG188,25,Morocco,Tech Enthusiast,Fitness,25,55
+SEG189,3,Morocco,Tech Enthusiast,Fashion,25,55
+SEG190,38,Morocco,Tech Enthusiast,Electronics,15,40
+SEG191,45,Morocco,Online Shopper,Home Appliances,15,35
+SEG192,30,Morocco,Online Shopper,Gaming,18,50
+SEG193,18,Morocco,Online Shopper,Fitness,25,55
+SEG194,40,Morocco,Online Shopper,Fashion,25,55
+SEG195,7,Morocco,Online Shopper,Electronics,15,40
+SEG196,8,Morocco,In Shipping,Home Appliances,15,35
+SEG197,19,Morocco,In Shipping,Gaming,18,50
+SEG198,36,Morocco,In Shipping,Fitness,25,55
+SEG199,42,Morocco,In Shipping,Fashion,25,55
+SEG200,20,Morocco,In Shipping,Electronics,15,40
