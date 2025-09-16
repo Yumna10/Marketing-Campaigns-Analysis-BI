@@ -1,2 +1,3 @@
 # Marketing-Campaign-Analysis-BI
-A Business Intelligence project analyzing 30 marketing campaigns from 6 companies over 2 months. The project includes database design, data modeling, campaign KPIs, customer acquisition and engagement analysis, and dashboards built with Power BI and Tableau.
+This project provides a Business Intelligence solution for DigiHype, a digital marketing company managing campaigns for clients like Apple, Samsung, Sony, Lenovo, Dell, and Huawei.
+ As BI developers, we analyzed customer, product, and campaign data  over a defined period to measure performance, track KPIs, and deliver insights through an interactive dashboard.
