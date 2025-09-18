@@ -44,6 +44,7 @@
 
 
 ---
+![Alt Text](Database%20Schema.jpg)  
 
 ## 2. Tables & Relationships
 - **Company** → One company runs multiple campaigns.  
@@ -96,6 +97,9 @@
 ---
 
 ## 5. ETL Package (Excel → SQL Server OLTP)
+
+![Alt Text](ETL_Backup_OLTP.png)  
+
 ### Purpose
 - Standardize loading of Excel data into SQL Server OLTP.  
 - Ensure data integrity for downstream BI tools.  
