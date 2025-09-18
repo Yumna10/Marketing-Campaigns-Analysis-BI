@@ -75,7 +75,7 @@ The system integrates multiple tools:
 ---
 
 ##  Dashboards Preview
-![Alt Text]("Power BI Dashboard/overview.png")
+![Alt Text](Power%20BI%20Dashboard/overview.png)
 ![Alt Text](Power BI Dashboard/campaigns1.png)
 ![Alt Text](Power BI Dashboard/campaigns2.png)
 ![Alt Text](Power BI Dashboard/ads.png)
