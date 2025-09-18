@@ -3,7 +3,8 @@
 ###  Main Steps
 1. **Extract** raw records from staging/OLTP (Excel & SQL Server).  
 2. **Transform** data by applying lookups, surrogate key mapping, cleaning, and type conversions.  
-3. **Load** dimension tables first, then fact tables, ensuring referential integrity.  
+3. **Load** dimension tables first, then fact tables, ensuring referential integrity.
+4. 
 ![Alt Text](ETL_Backup_OLAP.png)  
 
 ###  ETL Control Flow
@@ -19,6 +20,8 @@
 ---
 
 ##  Data Warehouse Schema Design
+
+![Alt Text](OLAP_Diagram.png)  
 
 The warehouse follows a **Galaxy Schema** structure:
 - **Fact Tables** hold business metrics (transactions, campaign results, engagement).  
