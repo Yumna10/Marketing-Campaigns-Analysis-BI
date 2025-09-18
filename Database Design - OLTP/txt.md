@@ -1,4 +1,5 @@
 # Operational Database Design (ERD)
+![Alt Text](Database%20ERD%20Mapping.jpg)  
 
 ## 1. Entities Description
 ### Company
