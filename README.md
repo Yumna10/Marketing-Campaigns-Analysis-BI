@@ -49,12 +49,12 @@ The system integrates multiple tools:
 ---
 
 ##  Deliverables
-- ✅ Centralized **Data Warehouse** based on **Galaxy Schema**  
-- ✅ Automated **ETL workflows** with error handling & scheduling  
-- ✅ Analytical **OLAP Cubes** with KPIs (SSAS)  
-- ✅ **SSRS Reports** for campaign profitability & audience details  
-- ✅ **Power BI Dashboards**: Campaign Insights, Customers, Engagement, Ads  
-- ✅ **Tableau Dashboards**: Revenues, Transactions, Ad Stats  
+-  Centralized **Data Warehouse** based on **Galaxy Schema**  
+-  Automated **ETL workflows** with error handling & scheduling  
+-  Analytical **OLAP Cubes** with KPIs (SSAS)  
+-  **SSRS Reports** for campaign profitability & audience details  
+-  **Power BI Dashboards**: Campaign Insights, Customers, Engagement, Ads  
+-  **Tableau Dashboards**: Revenues, Transactions, Ad Stats  
 
 ---
 
@@ -75,7 +75,7 @@ The system integrates multiple tools:
 ---
 
 ##  Dashboards Preview
-![Alt Text](Power BI Dashboard/overview.png)
+![Alt Text]("Power BI Dashboard/overview.png")
 ![Alt Text](Power BI Dashboard/campaigns1.png)
 ![Alt Text](Power BI Dashboard/campaigns2.png)
 ![Alt Text](Power BI Dashboard/ads.png)
