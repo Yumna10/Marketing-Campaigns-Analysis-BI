@@ -75,15 +75,16 @@ The system integrates multiple tools:
 ---
 
 ##  Dashboards Preview
-![Alt Text](Power%20BI%20Dashboard/overview.png)
-![Alt Text](Power BI Dashboard/campaigns1.png)
-![Alt Text](Power BI Dashboard/campaigns2.png)
-![Alt Text](Power BI Dashboard/ads.png)
-![Alt Text](Power BI Dashboard/companies1.png)
-![Alt Text](Power BI Dashboard/companies2.png)
-![Alt Text](Power BI Dashboard/product.png)
-![Alt Text](Power BI Dashboard/engagement.png)
-![Alt Text](Power BI Dashboard/customers.png)
+![Alt Text](Power%20BI%20Dashboard/overview.png)  
+![Alt Text](Power%20BI%20Dashboard/campaigns1.png)  
+![Alt Text](Power%20BI%20Dashboard/campaigns2.png)  
+![Alt Text](Power%20BI%20Dashboard/ads.png)  
+![Alt Text](Power%20BI%20Dashboard/companies1.png)  
+![Alt Text](Power%20BI%20Dashboard/companies2.png)  
+![Alt Text](Power%20BI%20Dashboard/product.png)  
+![Alt Text](Power%20BI%20Dashboard/engagement.png)  
+![Alt Text](Power%20BI%20Dashboard/customers.png)  
+
 
 
 ---
