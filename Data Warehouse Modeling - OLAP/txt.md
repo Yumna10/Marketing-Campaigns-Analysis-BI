@@ -4,6 +4,7 @@
 1. **Extract** raw records from staging/OLTP (Excel & SQL Server).  
 2. **Transform** data by applying lookups, surrogate key mapping, cleaning, and type conversions.  
 3. **Load** dimension tables first, then fact tables, ensuring referential integrity.  
+![Alt Text](ETL_Backup_OLAP.png)  
 
 ###  ETL Control Flow
 - **Phase 1: Create Dimension Tables**  
