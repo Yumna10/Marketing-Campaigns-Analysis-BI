@@ -85,6 +85,17 @@ The system integrates multiple tools:
 ![Alt Text](Power%20BI%20Dashboard/engagement.png)  
 ![Alt Text](Power%20BI%20Dashboard/customers.png)  
 
+---
 
+## Detailed documentation
+A detailed explanation of each project phase (ETL, Data Warehouse design, SSAS modeling, SSRS reporting, Power BI and Tableau dashboards) is available in its respective folder. See:
+- `ETL_SSIS/`
+- `DataWarehouse/`
+- `SSAS/`
+- `SSRS/`
+- `Power BI Dashboard/`
+- `Tableau/`
+
+Each folder contains step-by-step documentation, diagrams, and implementation notes for that stage.
 
 ---
