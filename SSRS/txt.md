@@ -16,6 +16,7 @@ In this project, SSRS is directly connected to the **Marketing Campaigns Cube** 
 ---
 
 ## SSRS Reporting – Campaign Profit Analysis  
+![Alt Text](campaign_report.png)  
 
 ### Purpose & Scope  
 This report is designed to provide insights into **marketing campaign performance** in terms of:  
@@ -55,6 +56,7 @@ The data comes from the **Marketing Data Warehouse** and includes:
 ---
 
 ## Campaign Performance  
+![Alt Text](campaign_report2.png)  
 
 ### Overview  
 This section of the report focuses on **Engagement & Conversions** across campaigns.  
@@ -78,6 +80,7 @@ This section of the report focuses on **Engagement & Conversions** across campai
 ---
 
 ## Campaign Target Audience Details  
+![Alt Text](target_audience_report.png)  
 
 ### Overview  
 This section links campaign performance to the **target audience segments**.  
