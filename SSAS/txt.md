@@ -3,6 +3,8 @@
 
 ## SSAS Data Source View (DSV) – Overview  
 
+![Alt Text](DSV.png)  
+
 The **Data Source View (DSV)** in SQL Server Analysis Services is essentially the blueprint of the cube’s data model. It visually maps out the structure of the database tables and how they are related to each other. Think of it as the *bridge* between the raw database and the analytical cube — it doesn’t store data itself, but it defines the logical relationships that SSAS will use to process and analyze information.  
 
 In this project, the DSV is designed using a **star schema** layout. In this type of schema:  
@@ -19,6 +21,8 @@ Key Highlights:
 ---
 
 ## SSAS Cube Browser – Product Sales Analysis  
+![Alt Text](product_cube1.png)  
+![Alt Text](product_cube2.png)  
 
 This screenshot illustrates the **Browsing phase** in SSAS after successfully designing and processing the cube. At this point, the cube has been built using fact tables, dimension tables, relationships, and calculated measures.  
 
@@ -47,6 +51,7 @@ This screenshot illustrates the **Browsing phase** in SSAS after successfully de
 ---
 
 ## SSAS Cube Browser – Marketing Campaign Analysis  
+![Alt Text](campaign_cube.png)  
 
 This screenshot demonstrates campaign performance analysis using the SSAS Cube Browser.  
 
@@ -117,6 +122,7 @@ Focuses on campaign-level performance (Campaign Name, Company, Target Audience I
 ---
 
 ## SSAS Cube Browser – Customer Purchase Behavior View  
+![Alt Text](customer_cube.png)  
 
 **Description:**  
 Analyzes customer-level purchasing (Customer ID, Purchase Count, Quantity, Total Price).  
