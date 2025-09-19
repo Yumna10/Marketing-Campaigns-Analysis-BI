@@ -1,5 +1,5 @@
 
-# Power BI Dashboards  
+# Power BI Dashboard 
 
 Power BI is a powerful business intelligence and data visualization tool developed by Microsoft.  
 In this project, Power BI was used as one of the main front-end tools to present insights derived from our marketing campaign analysis.  
