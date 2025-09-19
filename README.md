@@ -87,7 +87,7 @@ The system integrates multiple tools:
 
 ---
 
-## Detailed documentation
+## Detailed Documentation
 A detailed explanation of each project phase (ETL, Data Warehouse design, SSAS modeling, SSRS reporting, Power BI and Tableau dashboards) is available in its respective folder. See:
 - `Database Design - OLTP/`
 - `Data Warehouse Modeling - OLAP/`
