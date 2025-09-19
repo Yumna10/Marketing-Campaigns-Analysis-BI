@@ -3,7 +3,7 @@
 
 ## SSAS Data Source View (DSV) – Overview  
 
-![Alt Text](DSV.png)  
+![Alt Text](DSV.jgp)  
 
 The **Data Source View (DSV)** in SQL Server Analysis Services is essentially the blueprint of the cube’s data model. It visually maps out the structure of the database tables and how they are related to each other. Think of it as the *bridge* between the raw database and the analytical cube — it doesn’t store data itself, but it defines the logical relationships that SSAS will use to process and analyze information.  
 
